@@ -1,0 +1,11 @@
+.genInfo h1{
+    border: 1px dashed mediumseagreen;
+}
+
+#dob{
+    font-style: italic;
+}
+
+#pob{
+    background-color: #FF7F50;
+}
